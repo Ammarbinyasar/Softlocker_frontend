@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978579679610",
+    "project_id": "softlocker-a224b",
+    "storage_bucket": "softlocker-a224b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978579679610:android:ca7081e26e27366e6e8ec3",
+        "android_client_info": {
+          "package_name": "com.example.vishayam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNZLl_YINgD7XpBhcUDayWnSLzlhZs4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
